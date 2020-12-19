@@ -1,0 +1,49 @@
+body {
+    /* background: #352f5b; */
+    /* background: #e1b382; */
+    /* background: #026670; */
+    /* background: #233237; */
+    /* background: #0B172A; */
+    /* background: #22223A; */
+    /* background: #161928; */
+    /* background: #444244; */
+    /* background: #C19434; */
+    /* background: #1B1B2F; */
+    /* background: #1B262C; */
+    background: #085F63;
+}
+
+.container {
+    max-width: 400px;
+}
+
+input[type=text],
+input[type=text]:focus {
+    color: #fff;
+    border: none;
+    background: rgba(0, 0, 0, 0.2);
+    max-width: 400px;
+}
+
+.todos li {
+    /* background: #423a6f; */
+    /* background: #2d545e; */
+    /* background: #FCE181; */
+    /* background: #984843; */
+    /* background: #BC4123;*/
+    /* background: #D56C2C; */
+    /* background: #EC2424; */
+    /* background: #FC890F; */
+    /* background: #173E43; */
+    /* background: #E79C2A; */
+    /* background: #FFA41B; */
+    background: #FF5959;
+}
+
+.delete {
+    cursor: pointer;
+}
+
+.filtered {
+    display: none !important;
+}
